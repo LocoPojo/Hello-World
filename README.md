@@ -1,2 +1,3 @@
 # Hello-World
-Starting repository
+
+Oh my goodness it's a commit message!
