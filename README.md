@@ -1,2 +1,3 @@
 # Hello-World
-Starting repository
+
+Coder and writer extraordinaire! 
